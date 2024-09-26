@@ -10,7 +10,7 @@ function Login(){
         backgroundPosition: 'center',   // Center the image
         backgroundRepeat: 'no-repeat',  // Prevents the image from repeating
         height: '100vh',                // Makes the div as tall as the viewport
-        width: '100vw'                  // Makes the div as wide as the viewport
+        width: '100vw'                  // Makes the div as wide as the viewport  I am writing this to test
     };
 
     const [email, setEmail] = useState()
